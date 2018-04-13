@@ -1,0 +1,8 @@
+ubuntu-xenial-16.04-cloudimg-console.log
+playbook-hitbsec.retry
+.vagrant
+tensorboard
+.ipynb_checkpoints
+.idea
+data/*
+model/*
