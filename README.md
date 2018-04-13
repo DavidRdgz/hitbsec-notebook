@@ -11,7 +11,7 @@ Setup and start the bootstrap process by running:
 vagrant up
 ```
 
-Once bootstrap finished, visit [http://192.168.56.60:8888/](http://192.168.56.60:8888/) to access Jupyter Notebook main page.
+Once bootstrap finished, visit [http://localhost:8888/](http://192.168.56.60:8888/) to access Jupyter Notebook main page.
 
 
 ### Option 2: Use local python
