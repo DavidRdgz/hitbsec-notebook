@@ -5,3 +5,4 @@ tensorboard
 .ipynb_checkpoints
 .idea
 model/*
+venv

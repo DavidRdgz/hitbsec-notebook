@@ -3,7 +3,7 @@ Vagrant.configure(2) do |config|
   config.vm.box_version = "20180309.0.0"
 
   config.vm.synced_folder '.', '/vagrant'
-  config.vm.network "private_network", :ip => '192.168.56.60'
+  config.vm.network "forwarded_port", guest: 8888, host:8888
 
   config.vm.provider "virtualbox" do |vb|
     vb.gui = false
