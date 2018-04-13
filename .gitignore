@@ -4,5 +4,4 @@ playbook-hitbsec.retry
 tensorboard
 .ipynb_checkpoints
 .idea
-data/*
 model/*
